@@ -20,6 +20,9 @@ Now, i only do pen-testing of my own applications (no more bad hacking 😇)
 Currently, working on a thing called "Domanda", which is a quiz website
 somewhat similar to kahoot
 
+### Other hobbies
+
+At other times, i use a 3d Software, Blender, To make some 3d artwork with it (I'm not that good at it 😅)
 ------------------------------------------------------------------------------------------------------------
 
 It's absolutely great to see how tech is advancing constantly, and becoming better,
