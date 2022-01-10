@@ -2,6 +2,7 @@
 
 I'm a young fireball, learning how the heck to use this teknologi stuff ┗|｀O′|┛
 But I've always been a fan of it (SINCE I WAS 2 🤣) \(￣︶￣*\)) 
+
 ------------------------------------------------------------------------------------------------------------
 ### My Journey
 
@@ -23,6 +24,7 @@ somewhat similar to kahoot
 ### Other hobbies
 
 At other times, i use a 3d Software, Blender, To make some 3d artwork with it (I'm not that good at it 😅)
+
 ------------------------------------------------------------------------------------------------------------
 
 It's absolutely great to see how tech is advancing constantly, and becoming better,
