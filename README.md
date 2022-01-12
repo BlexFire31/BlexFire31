@@ -18,7 +18,7 @@ Now, i only do pen-testing of my own applications (no more bad hacking for me ðŸ
 
 ### My Projects
 
-Currently, working on a thing called "Domanda", which is a quiz website
+Currently, working on a project called "Domanda", which is a quiz website
 somewhat similar to kahoot.
 
 ### Other hobbies
