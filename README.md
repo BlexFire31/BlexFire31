@@ -14,7 +14,8 @@ Then i countinued to improve upon my skillset, learning more and more everyday..
 Then came hacking 😈 
 (it was done in a controlled environment).  
 hacking was fun, but it also taught me A LOT about security. 
-Now, i only do pen-testing of my own applications (no more bad hacking for me 😇). 
+Now, i only do pen-testing of my own applications  
+(no more bad hacking for me 😇). 
 
 ### My Projects
 
