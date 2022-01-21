@@ -6,24 +6,24 @@ But I've always been a fan of it (SINCE I WAS 2 🤣) \(￣︶￣*\))
 ------------------------------------------------------------------------------------------------------------
 ### My Journey
 
-I started off at age 12, learning python 🐍 because it was beginner friendly, awesome, and pretty powerful. 
-A few months later, I learnt how the web works; a bit of javascript too. 
-Then, I learnt flutter, AND I <3 IT... It is one of the best things to learn (imo) 🙃. 
+I started off at age 12, learning python 🐍 because it was beginner friendly, awesome, and pretty powerful.  
+A few months later, I learnt how the web works; a bit of javascript too.  
+Then, I learnt flutter, AND I <3 IT... It is one of the best things to learn (imo) 🙃.  
 Then i countinued to improve upon my skillset, learning more and more everyday...
 
-Then came hacking/exploiting 😈 
-(it was done in a controlled environment). 
+Then came hacking 😈 
+(it was done in a controlled environment).  
 hacking was fun, but it also taught me A LOT about security. 
 Now, i only do pen-testing of my own applications (no more bad hacking for me 😇). 
 
 ### My Projects
 
-Currently, working on a project called "Domanda", which is a quiz website, 
+Currently, working on a project called "Domanda", which is a quiz website, primarily focused on secuirty, 
 somewhat similar to kahoot.
 
 ### Other hobbies
 
-At other times, i use a 3d Software, Blender, To make some 3d artwork with it (I'm not that good at it 😅). 
+I use a 3d Software, Blender, To make some 3d artwork with it (I'm not the best at it 😅). 
 
 ------------------------------------------------------------------------------------------------------------
 
