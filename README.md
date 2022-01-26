@@ -1,7 +1,7 @@
 # 🔥 Hi, Im @BlexFire31 
 
-I'm a young fireball, learning how the heck to use this teknologi stuff ┗|｀O′|┛   
-But I've always been a fan of it (SINCE I WAS 2 🤣) \(￣︶￣*\)) 
+I'm a young fireball, learning how the heck do i use dis teknologi stuff ┗|｀O′|┛   
+But I've always been a fan of it (EVEN WHEN I WAS 2 🤣) \(￣︶￣*\)) 
 
 ------------------------------------------------------------------------------------------------------------
 ### My Journey
